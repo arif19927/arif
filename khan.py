@@ -9,7 +9,7 @@ BINARY_PATH = "./pathan"
 process = None
 target_ip = None
 target_port = None
-attack_time = 240  # Default time
+attack_time = 300  # Default time
 threads = 1500  # Default thread count
 
 # Start command: Show Attack button
